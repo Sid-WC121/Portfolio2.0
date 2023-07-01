@@ -7,7 +7,7 @@ const projectsList: Project[] = [
     name: "Lorem ipsum dolor",
     summary:
       "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat",
-    tags: ["opensource", "webdev", "fullstack", "react", "nestjs", "tailwindcss"],
+    tags: ["opensource", "webdev"],
     link: {
       web: "https://",
       github: "https://",
@@ -19,7 +19,7 @@ const projectsList: Project[] = [
     name: "Lorem ipsum dolor",
     summary:
       "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat",
-    tags: ["opensource", "react", "dayjs", "tailwindcss"],
+    tags: ["opensource"],
     link: {
       web: "https://",
       github: "https://",
@@ -31,7 +31,7 @@ const projectsList: Project[] = [
     name: "Lorem ipsum dolor",
     summary:
       "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
-    tags: ["opensource", "appdev", "flutter", "firebase", "android"],
+    tags: ["opensource"],
     link: {
       web: "https://",
       github: "https://",
