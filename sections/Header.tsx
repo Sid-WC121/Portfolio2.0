@@ -14,7 +14,7 @@ const Header: React.FC = () => {
 
   return (
     <div id="header" className="h-screen grid place-items-center place-content-center gap-4">
-      <Image src="/images/Sid.png" width={485} height={128} alt="Sid-WC121" priority />
+      <h2> Updating to new portfolio 3.0, please wait </h2> 
 
       <div className="flex flex-r gap-4" >
         <a href="https://github.com/Sid-WC121" target="_blank">
